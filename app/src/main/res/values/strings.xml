@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">The SeamStress</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_specification">Create a customer</string>
+
+    <!-- Strings related to Creating customer -->
+    <string name="error_field_required">This field is required</string>
+    <string name="customer_name">The Customers Name</string>
+    <string name="job_price">Agreed Price</string>
+    <string name="customer_measurement">The Customers Measurements</string>
+    <string name="btn_text">Save Details</string>
+    <string name="title_activity_test">Create a job</string>
+    <string name="title_activity_edit">Edit job details</string>
+
+
+    <string name="action_sign_in">Edit job details</string>
+    <string name="action_sign_in_short">Edit job details</string>
+    <string name="title_activity_display">DisplayActivity</string>
+
+    <string name="search_hint">DisplayActivity</string>
+</resources>
